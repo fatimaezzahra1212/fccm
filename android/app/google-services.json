@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641791050162",
+    "firebase_url": "https://indriver-fn-default-rtdb.firebaseio.com",
+    "project_id": "indriver-fn",
+    "storage_bucket": "indriver-fn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641791050162:android:15ed68ce5574303d9b64ab",
+        "android_client_info": {
+          "package_name": "com.example.fccm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641791050162-1rbsmn6t89kqa2oeo81fu0a40nrf29af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_ASpJFmSitfS1mJ1_m7h_oBpSbTuqKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641791050162-1rbsmn6t89kqa2oeo81fu0a40nrf29af.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641791050162-onusb5pp5jro9sop896c1h4tp7i98eer.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taxi1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
